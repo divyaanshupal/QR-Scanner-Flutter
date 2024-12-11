@@ -185,3 +185,6 @@ class _QrScannerState extends State<QrScanner> {
     );
   }
 }
+
+
+//testing 
